@@ -25,7 +25,7 @@ I'm Malek, a Backend Developer and currently a student at Damascus University pe
     <img src="https://img.shields.io/badge/X-Follow-blue?logo=twitter&style=social" />
   </a>
 
-  - my LinkedIn: <a href="https://www.linkedin.com/in/malek-rostum/" target="_blank">
+- my LinkedIn: <a href="https://www.linkedin.com/in/malek-rostum/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
 
